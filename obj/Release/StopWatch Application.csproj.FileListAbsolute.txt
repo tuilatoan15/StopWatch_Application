@@ -1,0 +1,10 @@
+C:\Users\Toan\source\repos\StopWatch Application\bin\Release\StopWatch Application.exe.config
+C:\Users\Toan\source\repos\StopWatch Application\bin\Release\StopWatch Application.exe
+C:\Users\Toan\source\repos\StopWatch Application\bin\Release\StopWatch Application.pdb
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch Application.csproj.AssemblyReference.cache
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch_Application.Form1.resources
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch_Application.Properties.Resources.resources
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch Application.csproj.GenerateResource.cache
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch Application.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch Application.exe
+C:\Users\Toan\source\repos\StopWatch Application\obj\Release\StopWatch Application.pdb
